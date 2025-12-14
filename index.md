@@ -68,9 +68,6 @@ A comparative analysis demonstrating when traditional machine learning or deep l
 
 ### 🔹 Artifact 3: Understanding Machine Learning Training Methods  
 An educational artifact explaining how models learn, common training challenges, and techniques such as regularization, validation, and optimization.
-### 🔹 Artifact 1: VentSpace – Empathy-Driven AI Chatbot
-An emotionally intelligent AI chatbot designed using design thinking principles to support user well-being through responsible and ethical AI interaction.
-
 👉 [View Artifact on Canva](https://www.canva.com/design/DAG57CQaL6c/kOoZ4W9DYgVCraqM9e350Q/edit?utm_content=DAG57CQaL6c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
