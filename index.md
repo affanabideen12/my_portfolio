@@ -62,6 +62,9 @@ Each artifact includes a clear objective, process, tools used, and value proposi
 
 ### 🔹 Artifact 1: VentSpace – Empathy-Driven AI Chatbot  
 An emotionally intelligent AI chatbot designed using design thinking principles to support user well-being through responsible and ethical AI interaction.
+👉 [Talk to VentSpace Here]
+(https://chatgpt.com/g/g-68fecb9b756081918d63597f9a742f54-ventspace)
+
 
 ### 🔹 Artifact 2: Machine Learning vs Deep Learning Case Study  
 A comparative analysis demonstrating when traditional machine learning or deep learning is most appropriate for different problem types.
