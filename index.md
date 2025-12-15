@@ -66,10 +66,10 @@ An emotionally intelligent AI chatbot designed using design thinking principles 
 👉 [Talk to VentSpace]
 (https://chatgpt.com/g/g-68fecb9b756081918d63597f9a742f54-ventspace)
 
-
-
 ### 🔹 Artifact 2: Machine Learning vs Deep Learning Case Study  
 A comparative analysis demonstrating when traditional machine learning or deep learning is most appropriate for different problem types.
+
+👉 [View Artifact on Canva](https://www.canva.com/design/DAG57CQaL6c/kOoZ4W9DYgVCraqM9e350Q/edit?utm_content=DAG57CQaL6c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### 🔹 Artifact 3: Understanding Machine Learning Training Methods  
 An educational artifact explaining how models learn, common training challenges, and techniques such as regularization, validation, and optimization.
@@ -79,6 +79,8 @@ An educational artifact explaining how models learn, common training challenges,
 
 ### 🔹 Artifact 4: Machine Learning Training Methods – Applied Insights  
 An expanded, portfolio-ready artifact highlighting how training decisions influence model reliability, fairness, and real-world performance.
+
+👉 [View Artifact on Canva](https://www.canva.com/design/DAG7dDvLNCQ/tI_ZeZ-GM4446ZcG3wJp7w/edit?utm_content=DAG7dDvLNCQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ---
